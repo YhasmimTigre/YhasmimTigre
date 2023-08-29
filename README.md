@@ -20,5 +20,3 @@
 
   * 🤖 Estudo Ciência de Dados e Inteligência Artificial na UFPB
   * 🦾 Estou aqui para aprender e dar o meu melhor! 
-
-![Snake animation](https://github.com/YhasmimTigre/YhasmimTigre/blob/output/github-contribution-grid-snake.svg)
