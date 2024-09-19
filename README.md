@@ -19,7 +19,7 @@
  ✌️ &emsp; Enjoy programming and solving problems <br/><br/>
  ❤️ &emsp; Love to learn new features <br/><br/>
  🏫 &emsp; Student at Universidade Federal da Paraíba - UFPB <br/><br/>
- 📚 &emsp; Scientific research student at TRIL Lab <br/><br/>
+ 📚 &emsp; Data Analyst Intern - TCU <br/><br/>
 </p>
 
  # Stats of this Hub
